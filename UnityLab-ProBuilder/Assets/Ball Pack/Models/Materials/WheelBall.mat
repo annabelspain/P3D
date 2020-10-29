@@ -51,7 +51,6 @@ Material:
     - _Cull: 2
     - _Cutoff: 0.5
     - _DstBlend: 0
-    - _Emission: 1
     - _EmissionLM: 0
     - _GlossinessSource: 0
     - _QueueOffset: 0
@@ -72,7 +71,7 @@ Material:
 --- !u!1002 &2100001
 EditorExtensionImpl:
   serializedVersion: 6
---- !u!114 &5763894428328620202
+--- !u!114 &2485379821656802047
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
